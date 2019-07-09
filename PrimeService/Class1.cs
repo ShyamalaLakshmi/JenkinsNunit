@@ -4,7 +4,7 @@ namespace Prime.Services
 {
     public class PrimeService
     {
-        //Test
+        //Test//
         public bool IsPrime(int candidate)
         {
             if (candidate < 2)
