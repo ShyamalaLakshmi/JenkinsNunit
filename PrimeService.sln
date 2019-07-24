@@ -7,11 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeService", "PrimeServic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeServiceTest", "PrimeServiceTest\PrimeServiceTest.csproj", "{84C8C5B8-B530-41E5-B33C-E34E7233A2D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A2A86EE6-4128-4834-ADE6-704EBBBA1656}"
-	ProjectSection(SolutionItems) = preProject
-		Jenkinsfile.txt = Jenkinsfile.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
